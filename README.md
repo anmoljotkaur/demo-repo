@@ -1,3 +1,3 @@
 # DEMO
 
-Practice all the commands
+Practice all the commands. Description
